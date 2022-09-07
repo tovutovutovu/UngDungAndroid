@@ -1,3 +1,2 @@
-chào các bạn
-1234
-4567
+đây là beta0
+hoàn chỉnh beta0
